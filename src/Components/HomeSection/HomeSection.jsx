@@ -38,7 +38,7 @@ const HomeSection = () => {
     <div className="sapce-y-5">
       <section>
       </section>
-        <h1 className="py-5 text-xl font-bold opacity-90 text-left">Home</h1>
+        <h1 className="py-5 text-2xl font-bold opacity-90 text-left">Home</h1>
       <section className={`pb-10`}>
         <div className="flex space-x-0">
           <Avatar
